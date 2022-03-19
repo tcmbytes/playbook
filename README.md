@@ -1,3 +1,3 @@
-# The Craftsman Mindet
+# The Craftsman Playbook
 
-A collection of well refined software development principles, practices and patterns, inspired by the leaders of software development craftmanship.
+A collection of well refined software engineering principles, practices and patterns, inspired by the leaders in software craftmanship.
