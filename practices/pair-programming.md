@@ -58,4 +58,4 @@ However, these teams produce fewer bugs and fewer lines of code in that time. Fe
 ## Go-to Resources
 
 - [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) blog post.
-- [Clean Code: Agile](https://cleancoders.com/series/clean-code/agile), [Episode 50: Agile Programming](https://cleancoders.com/episode/clean-code-episode-49 by [Clean Coders](https://cleancoders.com/) with [Robert "Uncle Bob" Martin](https://www.goodreads.com/author/show/45372.Robert_C_Martin)
+- [Clean Code: Agile](https://cleancoders.com/series/clean-code/agile), [Episode 50: Agile Programming](https://cleancoders.com/episode/clean-code-episode-49) by [Clean Coders](https://cleancoders.com/) with [Robert "Uncle Bob" Martin](https://www.goodreads.com/author/show/45372.Robert_C_Martin)
