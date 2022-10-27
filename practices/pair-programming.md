@@ -58,4 +58,5 @@ However, these teams produce fewer bugs and fewer lines of code in that time. Fe
 ## Go-to Resources
 
 - [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) blog post.
+- [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) by [Kent Beck](https://www.goodreads.com/author/show/25211.Kent_Beck), [Cynthia Andres](https://www.goodreads.com/author/show/38241.Cynthia_Andres)
 - [Clean Code: Agile](https://cleancoders.com/series/clean-code/agile), [Episode 50: Agile Programming](https://cleancoders.com/episode/clean-code-episode-49) by [Clean Coders](https://cleancoders.com/) with [Robert "Uncle Bob" Martin](https://www.goodreads.com/author/show/45372.Robert_C_Martin)
